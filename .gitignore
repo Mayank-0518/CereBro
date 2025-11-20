@@ -157,11 +157,7 @@ logs/
 *.log
 app.log
 
-# AI model files and caches
-models/
-*.model
-*.bin
-sentence_transformers_cache/
+
 
 # Temporary files
 temp/
